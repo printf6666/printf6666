@@ -26,7 +26,7 @@
 🎀 **Favorite Character**
 
 **Unique Favorite：Escoffier**  
-<img src="https://upload-bbs.miyoushe.com/upload/2025/10/20/428060491/b8898406be14b6bc12ba46788e7b6c0c_5167447477182205306.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png" width="60">
+<img src="https://upload-bbs.miyoushe.com/upload/2025/10/20/428060491/b8898406be14b6bc12ba46788e7b6c0c_5167447477182205306.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png" width="60"><\br>
 **Also like: Furina, Citlali**
 <p align="center">
   <img src="https://upload-bbs.miyoushe.com/upload/2025/10/20/428060491/81f33b3187a80d8b0e05ffcaf38aa7c0_3547232559189784223.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png" width="50" style="border-radius: 10px;"> 
