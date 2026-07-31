@@ -20,6 +20,7 @@
 - Minecraft  《我的世界》
 - Terraria  《泰拉瑞亚》
 - Dancing Line  《跳舞的线》
+- Dead Cells  《死亡细胞》
 
 ---
 
