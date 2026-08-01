@@ -22,9 +22,9 @@
 
 🎀 **Favorite Character**
 
-**Unique Favorite：Escoffier**  
+**Unique Favorite: Escoffier**  
 <img src="./Escoffier.jpg" width="60"></br>
-**Also like: Furina, Citlali, Skirk, Linnea**
+**Also Like: Furina, Citlali, Skirk, Linnea**
 <p align="left">
   <img src="./Furina.jpg" width="60" style="border-radius: 8px;"> 
   <img src="./Citlali.jpg" width="60" style="border-radius: 8px;"> 
