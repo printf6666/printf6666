@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Escoffier
 
-- 湘潭大学 (XTU) 2025级本科在读
+- A student from XTU
 
 ---
 
