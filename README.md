@@ -17,11 +17,11 @@
 ---
 
 🎮 **Games I Play**
-- Genshin Impact  《原神》
-- Neverness to Everness  《异环》
-- Minecraft  《我的世界》
-- Terraria  《泰拉瑞亚》
-- Dancing Line  《跳舞的线》
+- Genshin Impact
+- Neverness to Everness
+- Minecraft
+- Terraria
+- Dancing Line
 
 ---
 
