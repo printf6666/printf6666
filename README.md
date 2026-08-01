@@ -24,10 +24,11 @@
 
 **Unique Favorite：Escoffier**  
 <img src="./Escoffier.jpg" width="60"></br>
-**Also like: Furina, Citlali, Skirk, Linnea**
+**Also like: Furina, Citlali, Skirk, Linnea, Odetta**
 <p align="left">
   <img src="./Furina.jpg" width="60" style="border-radius: 8px;"> 
   <img src="./Citlali.jpg" width="60" style="border-radius: 8px;"> 
   <img src="./Skirk.jpg" width="60" style="border-radius: 8px;">
   <img src="./Linnea.jpg" width="60" style="border-radius: 8px;">
+  <img src="./Odetta.jpg" width="60" style="border-radius: 8px;">
 </p>
