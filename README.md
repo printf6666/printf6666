@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Escoffier
 
-- A student from XTU
-
----
-
 🔗 **LeetCode**: https://leetcode.cn/u/friendly-corii54
 
 ---
