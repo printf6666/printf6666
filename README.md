@@ -30,5 +30,5 @@
   <img src="./Skirk.jpg" width="64" style="border-radius: 8px;">
   <img src="./Linnea.jpg" width="64" style="border-radius: 8px;">
   <img src="./Odetta.jpg" width="64" style="border-radius: 8px;">
-  <img src="./Venti.jpg" width="64" style="border-radius: 8px;">
+  <img src="./Venti.png" width="64" style="border-radius: 8px;">
 </p>
