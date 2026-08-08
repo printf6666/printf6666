@@ -7,7 +7,7 @@
 🛠️ **Tech Stack**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pygame,git,godot&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,git,godot&theme=dark&perline=8" />
 </a>
 ---
 
