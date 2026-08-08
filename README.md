@@ -6,10 +6,9 @@
 
 🛠️ **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pygame](https://darreltraballo.github.io/_astro/pygame-logo.C-nCEaSy.png)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pygame,git,godot&theme=dark&perline=8" />
+</a>
 ---
 
 🎮 **Games I Play**
