@@ -15,8 +15,7 @@
 🎮 **Games I Play**
 - Genshin Impact
 - Neverness to Everness
-- Minecraft
-- Terraria
+
 
 ---
 
