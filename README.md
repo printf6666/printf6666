@@ -23,7 +23,7 @@
 
 **Unique Favorite: Escoffier**  
 <img src="./Escoffier.jpg" width="64"></br>
-**Also Like: Furina, Citlali, Skirk, Linnea, Odetta, Venti**
+**Also Like: Furina, Citlali, Skirk, Linnea, Odetta, Venti, Vesna, Vodyanitsa**
 <p align="left">
   <img src="./Furina.jpg" width="64" style="border-radius: 8px;"> 
   <img src="./Citlali.jpg" width="64" style="border-radius: 8px;"> 
@@ -31,4 +31,6 @@
   <img src="./Linnea.jpg" width="64" style="border-radius: 8px;">
   <img src="./Odetta.jpg" width="64" style="border-radius: 8px;">
   <img src="./Venti.png" width="64" style="border-radius: 8px;">
+  <img src="./Vesna.jpg" width="64" style="border-radius: 8px;">
+  <img src="./Vodyanitsa.jpg" width="64" style="border-radius: 8px;">
 </p>
