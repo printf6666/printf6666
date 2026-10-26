@@ -22,10 +22,10 @@
 
 🎀 **Favorite Character**
 
-**Unique Favorite: Escoffier**  
+**Extremely Love: Escoffier, Vesna**  
 <img src="./Escoffier.jpg" width="64" style="border-radius: 8px;">
 <img src="./Vesna.jpg" width="64" style="border-radius: 8px;"></br>
-**Also Like: Furina, Citlali, Skirk, Linnea, Odetta, Vesna, Vodyanitsa**
+**Also Like: Furina, Citlali, Skirk, Linnea, Vodyanitsa**
 <p align="left">
   <img src="./Furina.jpg" width="64" style="border-radius: 8px;"> 
   <img src="./Citlali.jpg" width="64" style="border-radius: 8px;"> 
